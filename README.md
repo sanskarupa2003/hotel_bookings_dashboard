@@ -1,3 +1,4 @@
+# 12112040_frontend
 # Hotel Booking Dashboard
 
 A React-based dashboard that visualizes hotel booking data from a CSV file. The dashboard includes various charts and statistics to analyze visitor trends, including the number of visitors over time, the distribution of visitors by country, and a breakdown of adult and child visitors.
